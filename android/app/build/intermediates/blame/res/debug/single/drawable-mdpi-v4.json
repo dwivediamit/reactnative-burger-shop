@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\React_native_projects\\shop\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_card.jpg",
+        "source": "E:\\React_native_projects\\shop\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_card.jpg"
+    },
+    {
+        "merged": "E:\\React_native_projects\\shop\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\assets_img_profile.jpg",
+        "source": "E:\\React_native_projects\\shop\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_img_profile.jpg"
+    }
+]
